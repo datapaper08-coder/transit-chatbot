@@ -20,7 +20,6 @@ from linebot.v3.messaging import (
     MessagingApi,
     ReplyMessageRequest,
     TextMessage,
-    FlexSendMessage,
 )
 from linebot.v3.webhooks import MessageEvent, TextMessageContent
 
